@@ -1,11 +1,5 @@
 # 👋 Hey, I'm Jafoo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows%20Debloater-JafooOneClickTweaks-6f42c1?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TikTok-_Jafoo_-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
-
 ---
 
 ## 🛠️ What I Do
