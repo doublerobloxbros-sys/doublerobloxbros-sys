@@ -61,12 +61,12 @@ I make **Windows debloat & optimization tools** — one-click batch scripts that
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doublerobloxbros-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=doublerobloxbros-sys&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublerobloxbros-sys&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doublerobloxbros-sys&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=doublerobloxbros-sys&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-profile-trophy.vercel.app/?username=doublerobloxbros-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" height="170"/>
 </p>
 
