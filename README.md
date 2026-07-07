@@ -56,21 +56,6 @@ I make **Windows debloat & optimization tools** — one-click batch scripts that
   </tr>
 </table>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doublerobloxbros-sys&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doublerobloxbros-sys&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=doublerobloxbros-sys&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doublerobloxbros-sys&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🔧 Tools I Work With
 
