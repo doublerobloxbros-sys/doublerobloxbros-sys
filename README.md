@@ -75,8 +75,11 @@ I make **Windows debloat & optimization tools** — one-click batch scripts that
   <a href="https://discord.gg/8NqDSMzYun">
     <img src="https://img.shields.io/badge/Discord-Jafoo's%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@_Jafoo_">
-    <img src="https://img.shields.io/badge/TikTok-@_Jafoo_-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@jafoofn">
+    <img src="https://img.shields.io/badge/TikTok-@jafoofn-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@JafooFN">
+    <img src="https://img.shields.io/badge/YouTube-JafooFN-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://github.com/doublerobloxbros-sys">
     <img src="https://img.shields.io/badge/GitHub-doublerobloxbros--sys-181717?style=for-the-badge&logo=github&logoColor=white"/>
