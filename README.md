@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doublerobloxbros-sys&color=6f42c1&style=for-the-badge&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/doublerobloxbros-sys?style=for-the-badge&logo=github&color=2ea043"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCiuJIEuapQteDzdsBoTIoqg?style=for-the-badge&logo=youtube&label=YouTube&color=FF0000"/>
+  <img src="https://img.shields.io/badge/TikTok-@jafoofn-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </p>
 
 ---
