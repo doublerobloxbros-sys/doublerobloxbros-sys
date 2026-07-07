@@ -1,5 +1,10 @@
 # 👋 Hey, I'm Jafoo
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=doublerobloxbros-sys&color=6f42c1&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/doublerobloxbros-sys?style=for-the-badge&logo=github&color=2ea043"/>
+</p>
+
 ---
 
 ## 🛠️ What I Do
@@ -25,9 +30,6 @@ I make **Windows debloat & optimization tools** — one-click batch scripts that
         <a href="https://github.com/doublerobloxbros-sys/JafooOneClickTweaks">
           <img src="https://img.shields.io/badge/View%20on%20GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://discord.gg/8NqDSMzYun">
-          <img src="https://img.shields.io/badge/Get%20Help%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-        </a>
       </p>
     </td>
     <td width="40%" align="center">
@@ -38,6 +40,20 @@ I make **Windows debloat & optimization tools** — one-click batch scripts that
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doublerobloxbros-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublerobloxbros-sys&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doublerobloxbros-sys&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=doublerobloxbros-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" height="170"/>
+</p>
 
 ---
 
